@@ -1,6 +1,8 @@
 public class BeanMachine {
 	public static void main(String[] args) {
-		System.out.println("hello");
+		
+		System.out.println("and this is Wyatt");
+		System.out.println(" this is our code.");
 		// Greet User
 			/* How to Play
 			 * Tell them what options they have
