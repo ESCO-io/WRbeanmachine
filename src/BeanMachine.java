@@ -1,6 +1,8 @@
-public class BeanMachine {
-	public static void main(String[] args) {
-		System.out.println("hello");
+// import scanner Wyatt
+import java.util.Scanner;
+	public class BeanMachine {
+		public static void main(String[] args) {
+		
 		// Greet User
 			/* How to Play
 			 * Tell them what options they have
