@@ -1,5 +1,6 @@
 public class BeanMachine {
 	public static void main(String[] args) {
+		System.out.println("hello");
 		// Greet User
 			/* How to Play
 			 * Tell them what options they have
